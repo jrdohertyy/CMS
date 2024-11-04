@@ -18,7 +18,7 @@ public class Customer {
         return customerID = customerID;
     }
 
-    public void setcustomerID(String customerID){
+    public void setcustomerID(){
         this.customerID = customerID;
     }
 
